@@ -11,8 +11,8 @@ real_practice = "PRACTICE"
 
 let logado = false;
 
-const email_digitado = "mageviskyalves@gmail.com"
-const senha_digitada = "a22J0812"
+const email_digitado = ""
+const senha_digitada = ""
 
 // var paridade = readlineSync.question('Digite o par: ')
 // var paridade = paridade.toUpperCase();
